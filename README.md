@@ -1,6 +1,6 @@
 # Libft
 
-My implementation of C Library usual functions
+My implementation of [libft](libft.en.pdf) - C Library usual functions.
 
 ## Installation
 
